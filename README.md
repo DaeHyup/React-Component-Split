@@ -1,1 +1,1 @@
-FOUCS ON Component without CRUD
+It is to separate components without CRUD
