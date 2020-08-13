@@ -1,0 +1,32 @@
+.Phone_List {
+    display: flex;
+    justify-content: center;
+    margin: 50px auto;
+    border: 1px solid black;
+    width: 30%;
+    padding: 30px;
+    margin-top: -10px;
+}
+
+.Phone_List_Left {
+    font-size: 18px;
+}
+
+
+.Phone_List_Right {
+    margin-left: 400px;
+}
+
+.Phone_List_Right button {
+    margin-top: 10px;
+    border: 1px solid black;
+    background-color: white;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.Phone_List_Right button:hover {
+    background-color: black;
+    color: white;
+   
+}

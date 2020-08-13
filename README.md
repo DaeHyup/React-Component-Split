@@ -1,0 +1,1 @@
+FOUCS ON Component without CRUD

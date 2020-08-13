@@ -1,0 +1,4 @@
+.P_Item {
+    display: flex;
+    flex-direction: column;
+}
